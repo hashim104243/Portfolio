@@ -36,11 +36,11 @@ export default function Header() {
           </div>
         </div>
 
-        <div className="    h-[323px] w-96 lg:w-[26rem] lg:h-[535px]  lg:mr-20   flex justify-center items-center xl:mr-[200px] lg:mt-[-200px] sm:mt-[-50px] md:mt-[-50px]    2xl:mr-[60px]    ">
+      <div className="   h-[323px] w-96 lg:w-[26rem] lg:h-[535px]  lg:mr-20   flex justify-center items-center xl:mr-[200px] lg:mt-[30px] sm:mt-[-50px] md:mt-[-50px]    2xl:mr-[60px]    ">
           <img
-            className="lg:w-full lg:h-[100%]  h-[300px]"
-            alt="person Image"
-            src="copy.png"
+            className="lg:w-full lg:h-[100%]  h-[300px] lg:h-[476 px] "
+            alt="person.png"
+            src="person.png"
           />
         </div>
         <div className="hidden  md:block absolute   text-white w-16  space-y-3 md:top-[60px] md:right-[90px] lg:right-[30px] 2xl:right-[160px] container xl:right-[90px]  ">
